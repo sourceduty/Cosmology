@@ -50,6 +50,8 @@ If this theory holds true, the universe could contract again in the future, pote
 
 > Alex: "*This is my conceptual theory of the universe which opposes The Big Bang Theory.*"
 
+> "*A dynamic universe with growing and dying stars is more realistic.*"
+
 #
 ### Related Links
 
