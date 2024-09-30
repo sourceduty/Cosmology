@@ -48,8 +48,6 @@ If this theory holds true, the universe could contract again in the future, pote
 
 <br>
 
-> Alex: "*✋ This section wasn't written or edited by AI.*"
-
 > "*This is my conceptual theory of the universe which opposes The Big Bang Theory.*"
 
 #
