@@ -53,7 +53,9 @@ If this theory holds true, the universe could contract again in the future, pote
 > "*A dynamic universe with growing and dying stars is more realistic.*"
 
 #
-### Imploded Milky Way Galaxy
+### Imploded Milky Way Galaxy (Big Crunch)
+
+![Big Crunch](https://github.com/user-attachments/assets/8928399f-d502-41fd-a111-a0955a0c40c7)
 
 The potential scenario of the Milky Way imploding and contracting the universe presents a fascinating, albeit unsettling, picture of cosmic evolution. In this hypothetical situation, gravitational forces could lead to the collapse of our galaxy, drawing stars, gas, and dust inward. This implosion might result from a variety of factors, including the gravitational influence of a supermassive black hole at the galaxy's center or an increase in dark matter density. As the Milky Way contracts, it could trigger intense star formation and supernova explosions, generating shock waves that might further disrupt surrounding cosmic structures. Such activity would significantly alter the galactic landscape, potentially leading to a new phase of evolution for the galaxy itself.
 
