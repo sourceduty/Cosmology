@@ -46,6 +46,8 @@ In this theory, the expansion observed today is merely a temporary phase in the 
 
 If this theory holds true, the universe could contract again in the future, potentially becoming smaller or denser as more celestial bodies die off and condense into black holes. The universe’s ultimate fate, then, would depend on the interplay between expansion driven by new stellar formation and contraction caused by the collapse of aging cosmic bodies. This cyclical process implies that the universe may go through infinite cycles of expansion and contraction, making the Big Bang just one event in a much larger cosmic rhythm rather than the singular beginning of all things. The Cyclical Exchange Theory provides a new lens through which to view the universe, emphasizing a balanced, oscillating system over the idea of a universe moving inexorably toward infinite expansion.
 
+<br>
+
 > Alex: "*✋ This section wasn't written or edited by AI.*"
 
 > "*This is my conceptual theory of the universe which opposes The Big Bang Theory.*"
