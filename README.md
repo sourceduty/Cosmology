@@ -58,6 +58,16 @@ If this theory holds true, the universe could contract again in the future, pote
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Space](https://github.com/sourceduty/Space)
+<br>
+[Mars](https://github.com/sourceduty/Mars)
+<br>
+[SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
+<br>
+[Space Agencies](https://github.com/sourceduty/Space_Agencies)
+<br>
+[Station in Space](https://chat.openai.com/g/g-RhQ7LG2GQ-station-in-space)
+<br>
+[Space Simulator](https://chat.openai.com/g/g-HiBjZs8sv-space-simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
