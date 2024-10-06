@@ -1,4 +1,4 @@
-![The Universe](https://github.com/user-attachments/assets/39f64f79-b9aa-4e0b-b1f6-4ae531f529b5)
+![Squarehelm](https://github.com/user-attachments/assets/5f185602-1e9a-4b2f-94fc-03a4ded4ecd0)
 
 > Analyzing outer space, the universe, astrophysics and theories.
 
@@ -65,6 +65,10 @@ As the Milky Way's implosion unfolds, its effects could ripple throughout the un
 ### Superuniverse
 
 Measuring the entire universe for theoretical proof is currently impossible due to several fundamental limitations. First, the universe's vastness exceeds our technological capacity to observe it in its entirety, with light from distant regions still traveling toward us, meaning we can only see as far as the observable universe allows. Additionally, the expansion of the universe, accelerating due to dark energy, means that some areas are receding faster than the speed of light, rendering them forever inaccessible. Theoretical constraints, such as uncertainty in quantum mechanics and limitations of current cosmological models, further complicate our understanding of the universe's full scope, leaving many regions unobservable or beyond scientific reach. These obstacles make a complete measurement or proof of the entire universe currently unattainable.
+
+#
+
+![The Universe](https://github.com/user-attachments/assets/39f64f79-b9aa-4e0b-b1f6-4ae531f529b5)
 
 #
 ### Related Links
